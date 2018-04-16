@@ -1,2 +1,2 @@
 # Chatcore
-Research for chat app
+Research for chat app for Projects.
